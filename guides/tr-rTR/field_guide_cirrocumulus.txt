@@ -1,4 +1,4 @@
 Cirrocumulus
-High level clouds that form a wavy sheet. The sheet is composed of small dots which almost look two dimensional. May indicate precipitation in the next 8 to 12 hours.
+Dalgalı bir tabaka oluşturan yüksek seviyeli bulutlar. Tabaka neredeyse iki boyutlu görünen küçük noktalardan oluşur. Önümüzdeki 8 ila 12 saat içinde yağışa işaret edebilir.
 
 https://en.wikipedia.org/wiki/Cirrocumulus_cloud
