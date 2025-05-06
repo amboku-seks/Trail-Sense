@@ -1,4 +1,4 @@
-Carp
-A freshwater fish with thick, large scales. They are commonly found in slow-moving or still waters and often travel in groups. Carp consume a variety of foods and are most active at night.
+Sazan
+Kalın, büyük pulları olan bir tatlı su balığıdır. Genellikle yavaş hareket eden veya durgun sularda bulunurlar ve genellikle gruplar halinde seyahat ederler. Sazanlar çeşitli gıdalar tüketirler ve en çok geceleri aktiftirler.
 
 https://en.m.wikipedia.org/wiki/Cyprinus
