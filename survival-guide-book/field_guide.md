@@ -648,4 +648,4 @@ Low clouds that look like a sheet of cotton balls with small gaps. The color ran
 
 ![](file:///android_asset/survival_guide/stratus.webp)
 
-A low cloud that covers the sky. Objects don't cast shadows and it may be foggy. May indicate fair weather for the next 3 hours if it is foggy, otherwise it may indicate precipitation soon.
+A low cloud that covers the sky. Objects don't cast shadows and it may be foggy. May indicate fair weather for the next 3 hours if it is foggy, otherwise it may indicate precipitation soon
