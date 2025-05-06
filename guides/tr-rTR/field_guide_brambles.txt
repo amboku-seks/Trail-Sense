@@ -1,6 +1,6 @@
 Brambles
-A thorny shrub, typically found in forests and fields, often bearing aggregate berries such as blackberries. The fruits of most brambles are edible once mature. Be cautious of thorns when harvesting.
+Tipik olarak ormanlarda ve tarlalarda bulunan, genellikle böğürtlen gibi toplu meyveler taşıyan dikenli bir çalı. Çoğu böğürtlenin meyveleri olgunlaştığında yenilebilir. Hasat ederken dikenlere karşı dikkatli olun.
 
-Common species include: blackberry, dewberry, and raspberry.
+Yaygın türler şunlardır: böğürtlen, çiy üzümü ve ahududu.
 
 https://en.m.wikipedia.org/wiki/Rubus
